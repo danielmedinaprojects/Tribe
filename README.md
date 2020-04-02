@@ -1,2 +1,2 @@
 # Tribe
-Tribe Project
+This is the Tribe Project for CS441.
